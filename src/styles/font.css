@@ -1,0 +1,11 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/NunitoSansExtraBold.ttf"); font-family : "Nunito Sans"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PublicSansBold.ttf"); font-family : "Public Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MerriweatherBlack.ttf"); font-family : "Merriweather"; font-weight : 900;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PublicSansRegular.ttf"); font-family : "Public Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MerriweatherBold.ttf"); font-family : "Merriweather"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PublicSansLight.ttf"); font-family : "Public Sans"; font-weight : 300;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PublicSansSemiBold.ttf"); font-family : "Public Sans"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MerriweatherBoldItalic.ttf"); font-family : "Merriweather"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PublicSansMedium.ttf"); font-family : "Public Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PublicSansExtraLight.ttf"); font-family : "Public Sans"; font-weight : 200;  }
