@@ -1,6 +1,5 @@
 ## mrace_s_application3
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
 
